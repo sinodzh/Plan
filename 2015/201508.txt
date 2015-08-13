@@ -6,3 +6,7 @@
 2.微信jsapi和WeixinJSBridge的共存
 3.分享后点击处理
 4.Hadoop The Definitive Guide 2rd Editio.中文版学习 180~280 
+4.1作业调优
+4.2MapReduce的工作机制
+4.3作业的调度
+
