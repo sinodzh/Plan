@@ -22,4 +22,8 @@
 1.Hadoop The Definitive Guide 2rd Editio.中文版学习 281~400
 1.1集群规范
 1.2网络拓扑
-1.3集群的构建和安装 
+1.3集群的构建和安装
+1.4SSH配置
+1.5Hadoop配置
+1.6安全性
+ 
