@@ -53,6 +53,18 @@
 2.3Web查询
 2.4HBase和RDBMS的比较
 2.5Praxis
+2.6模式的设计
+3Zookeeper
+3.1Zookeeper中的组成员关系
+3.2数据模型
+3.3观察触发器
+3.4一致性
+3.5会话
+3.6使用ZooKeeper来构建应用
+4开源工具Sqoop
+
+
+
 
 
 
