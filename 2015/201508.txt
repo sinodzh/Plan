@@ -45,6 +45,8 @@
 4.3HiveQL
 4.4操作与函数
 4.5分区和桶
+2015-08-15
+1.Hadoop The Definitive Guide 2rd Editio.中文版学习 431~535
 
 
  
