@@ -47,6 +47,13 @@
 4.5分区和桶
 2015-08-15
 1.Hadoop The Definitive Guide 2rd Editio.中文版学习 431~535
+2HBase
+2.1Avro,REST,Thrift
+2.2模式
+2.3Web查询
+2.4HBase和RDBMS的比较
+2.5Praxis
+
 
 
  
