@@ -2,3 +2,22 @@
 前段时间忙考试，一切OK了。
 
 1.Hortonworks Data Platform   10-37
+2.1 Disable SELinux and PackageKit and check the umask Value
+2.2 Using a Local Repository
+3.1 Installing Ambari
+3.2 Set Up the Ambari Server
+3.3 Start the Ambari Server
+4.1 Installing, Configuring, and Deploying a HDP Cluster
+4.2 Log In to Apache Ambari
+4.3 Launching the Ambari Install Wizard
+4.4 Name Your Cluster
+4.5 Select Stack
+4.6 Confirm Hosts
+4.7 Choose Services
+4.8 Assign Masters
+4.9 Assign Slaves and Clients
+4.10 Customize Services
+4.11 Review
+4.12 Install, Start and Test
+4.13 Complete
+	
