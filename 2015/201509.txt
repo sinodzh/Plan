@@ -20,4 +20,8 @@
 4.11 Review
 4.12 Install, Start and Test
 4.13 Complete
+
+2015-09-02
+1.安装
+2.安装ambari
 	
