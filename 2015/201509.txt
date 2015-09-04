@@ -24,4 +24,12 @@
 2015-09-02
 1.安装
 2.安装ambari
+
+2015-09-03
+1.MyEclipse install
+2.ambari install
+
+2015-09-04
+1.Maven熟悉
+
 	
