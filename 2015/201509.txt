@@ -35,5 +35,8 @@
 2015-09-06 ~ 2015-09-14
 1,java web project develop
 
+2015-09-15
+1.01Hadoop安装手册_Hadoop2.0
+2.hadoop2.2.0集群搭建
 
 	
