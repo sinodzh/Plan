@@ -42,5 +42,11 @@
 4.hadoop2.4.1伪分布式搭建
 5.hadoop2.6.0安装-单机
 6.Hadoop 2.6.0分布式部署参考手册
+7.ambari搭建Hadoop集群
+
+2015-09-19
+1.ambari搭建
+2.clone多个镜像
+
 
 	
