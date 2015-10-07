@@ -10,3 +10,7 @@
 
 2015-10-6
 1.编写博客 【源】从零自学Hadoop(07)：Eclipse插件
+
+2015-10-7
+1.编写博客【源】从零自学Hadoop(08)：第一个MapReduce
+2.编写博客【源】从零自学Hadoop(09)：使用Maven构建Hadoop工程
