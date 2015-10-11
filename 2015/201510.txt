@@ -27,4 +27,6 @@
 2015-10-11
 1.【源】从零自学Hadoop(11)：Hadoop命令上
 
-2.【源】从零自学Hadoop(12)：Hadoop命令下
+2.【源】从零自学Hadoop(12)：Hadoop命令中
+
+3.【源】从零自学Hadoop(13)：Hadoop命令下
