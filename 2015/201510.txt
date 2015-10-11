@@ -23,3 +23,8 @@
 
 2015-10-10
 1.【源】从零自学Hadoop(10)：Hadoop1.x与Hadoop2.x
+
+2015-10-11
+1.【源】从零自学Hadoop(11)：Hadoop命令上
+
+2.【源】从零自学Hadoop(12)：Hadoop命令下
