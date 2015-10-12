@@ -30,3 +30,8 @@
 2.【源】从零自学Hadoop(12)：Hadoop命令中
 
 3.【源】从零自学Hadoop(13)：Hadoop命令下
+
+2015-10-12
+1.HBase
+2.Hive
+3.Java基础复习
