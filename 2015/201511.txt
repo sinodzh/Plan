@@ -1,2 +1,5 @@
 2015-11-1
 1.add the pay ways
+
+2015-11-2
+1.try to fix the transaction serialize problem
