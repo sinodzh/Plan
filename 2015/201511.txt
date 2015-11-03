@@ -3,3 +3,6 @@
 
 2015-11-2
 1.try to fix the transaction serialize problem
+
+2015-11-3
+1.√Ê ‘
